@@ -15,3 +15,6 @@ source:https://github.com/Yixiaohan/show-me-the-code
 
 # 第 0004 题： 
 任一个英文的纯文本文件，统计其中的单词出现的个数。
+
+# 第 0005 题： 
+你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率的大小。
